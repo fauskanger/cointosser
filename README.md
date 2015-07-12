@@ -5,6 +5,7 @@ Given a start prediction of a coin flip sequence of length 3, a second predictio
  - Start prediction: (A, B, C)
  - Second prediction: (opposite of B, A , B)
  
+Python-script [here](run.py)
 
 Results for n experiments with n = 1 000 000:
 
