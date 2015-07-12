@@ -7,7 +7,7 @@ Given a start prediction of a coin flip sequence of length 3, a second predictio
  
 The coin is flipped until one of the players win.
  
-Python-script [here](run.py)
+Python-script [here](run.py) (Python 3.4)
 
 PyPlot adapted from http://matplotlib.org/examples/pylab_examples/bar_stacked.html
 
