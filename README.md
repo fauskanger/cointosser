@@ -1,4 +1,4 @@
-# Trippel Coin-tosser
+# Trippel Coin-tosser - Penney's Game
 
 Given a start prediction of a coin flip sequence of length 3, a second prediction with the following rule will dominate:
 
